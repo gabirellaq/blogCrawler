@@ -38,7 +38,7 @@
     * ![img](./screenshot/3.PNG)
 
     * 测试用例:
-        * [rssXml](https://www.rickvanrousselt.com/about-me/)
+        * [rssXml](http://www.ideliverable.com/blog)
         * [atomXml](https://www.jaredthenerd.com/)
         * [rssImg](https://geislerdatensysteme-public.sharepoint.com/Seiten/TechnikBlog.aspx)
         * [RSSImg](https://www.winthropdc.com/home.htm)
@@ -46,11 +46,11 @@
         * [xmlImg](http://www.tipsdbits.com/)
         * [titleRSS]()
         * [titlerss]()
-        * [hrefRSS](https://www.infoworld.com/author/Adam-Bertram/)
+        * [hrefRSS](https://mvp.microsoft.com/en-us/PublicProfile/5001225?fullName=Tony%20Christopher%20De%20Jonker)
         * [hrefrss](http://www.infoworld.com/author/Adam-Bertram/)
-        * [feed](https://www.qumio.com/Blog/default.aspx)
-        * [frame](http://www.waglwagl.net/)
-        * [other](http://www.e2evc.com/home/About.aspx)
+        * [feed](https://blogs.msdn.microsoft.com/)
+        * [frame](http://blog.naver.com/kaoncloud)
+        * [other](http://alexdrenea.com/)
         * [404](http://blog.wortell.nl/author/danny-bProfileLinkage)
         * [redirct](http://blog.gandjustas.ru/)
 
