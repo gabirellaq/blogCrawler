@@ -50,7 +50,7 @@
         * [hrefrss](http://www.infoworld.com/author/Adam-Bertram/)
         * [feed](https://blogs.msdn.microsoft.com/)
         * [frame](http://blog.naver.com/kaoncloud)
-        * [other](http://alexdrenea.com/)
+        * [other](http://blog.csdn.net/shelleyliu0415)
         * [404](http://blog.wortell.nl/author/danny-bProfileLinkage)
         * [redirct](http://blog.gandjustas.ru/)
 
