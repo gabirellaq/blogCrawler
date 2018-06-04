@@ -3,6 +3,12 @@
 
 > 此篇实例我们用到了feedly来解析RSS的内容。
 
+## RUN
+```
+npm install 
+node BlogCrawler.js
+```
+
 ## API
 * [feedly.com](https://developer.feedly.com/v3/streams/)
 * [feedly id && screct获取的方法](https://groups.google.com/forum/#!forum/feedly-cloud)
